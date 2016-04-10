@@ -1,0 +1,13 @@
+{
+	"name": "pauk2012/MaSha",
+	"description": "This library allows users to mark page content fragments and get unique url to the page with marked fragments",
+	"keywords": ["jquery", "fileapi", "multiupload", "file upload", "upload"],
+	"homepage": "https://github.com/pauk2012/MaSha",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Paul Khimyack",
+			"email": "paul.khimyack@gmail.com"
+		}
+	]
+}
