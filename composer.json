@@ -1,5 +1,5 @@
 {
-	"name": "pauko/MaSha",
+	"name": "pauko/masha",
 	"description": "This library allows users to mark page content fragments and get unique url to the page with marked fragments",
 	"keywords": ["jquery", "fileapi", "multiupload", "file upload", "upload"],
 	"homepage": "https://github.com/pauk2012/MaSha",
